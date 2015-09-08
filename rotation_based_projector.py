@@ -10,7 +10,6 @@ Rotation Based Projector
 
 #%% Import libraries
 
-import math
 import numpy as np
 
 import scipy.interpolate
